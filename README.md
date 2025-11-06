@@ -15,6 +15,3 @@ This repository includes Python tutorials and assignments to support the coursew
 ## Maintainer
 This repository is maintained by Mohammad Javad Goodarzi, a teaching assistant for the Econometrics course, focusing on Python applications.
 
-
-## Contact
-For any questions or issues, please contact me at javadgoodarzi@hotmail.com.
